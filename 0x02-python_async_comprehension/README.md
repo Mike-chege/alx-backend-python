@@ -1,6 +1,6 @@
 ## :file_folder: Python_Async_Comprehension
 
-This project covers Python Asynchronous Comprehensions.
+This project covers Python Asynchronous Comprehensions/Generators.
 
 ## :scroll: That is
 - How to write an asynchronous generator
